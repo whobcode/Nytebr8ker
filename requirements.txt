@@ -1,0 +1,15 @@
+python3-awsauth  
+python3-requests-futures 
+python3-requests-toolbelt
+python3-requests-cache 
+python3-requests-kerberos 
+python3-requests-unixsocket
+python3-requestsexceptions  
+python3-requests-ntlm  
+python3-yubihsm
+python3-colorama
+python3-psutil
+python3-requests
+python3-requests-file 
+python3-requests-oauthlib 
+python-requests-toolbelt-doc
