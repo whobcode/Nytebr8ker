@@ -63,7 +63,7 @@
 
 ### Dependencies
 
-**`Storm Breaker`** requires following programs to run properly -
+**`Nytebr8ker`** requires following programs to run properly -
 
 - `php`
 - `python3`
